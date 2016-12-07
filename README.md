@@ -1,0 +1,2 @@
+# Blackjack-2D
+When I first started programming in C++, one of the first games I wrote was Blackjack as a text-based Windows Console Application. Back then I was eager to start learning about graphics so I could recreate the game with actual 2D images. Later on when I started learning about DirectX, I did just that and created Blackjack 2D as my very first game with 2D graphics. It had a card class, used by containers for the card deck and hands, as well as a basic AI player.
